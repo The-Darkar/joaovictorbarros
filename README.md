@@ -34,26 +34,6 @@ Minhas experiências profissionais anteriores em logística, controle de qualida
 
 ---
 
-## 💼 Experiência Profissional
-
-**Auxiliar de Logística** — *GEFCO*  
-📅 Fev 2022 - Abr 2022 (2 meses)  
-- Monitoramento de frota terrestre  
-- Elaboração de relatórios e rastreamento  
-- Planejamento de atividades logísticas
-
-**Alimentador de Linha de Produção (Aprendiz)** — *Jamef Química Ltda*  
-📅 Fev 2019 - Dez 2020 (1 ano e 11 meses)  
-- Operações na linha de produção  
-- Embalagem e organização do setor
-
-**Analista de Controle de Qualidade (Estágio)** — *Pulcra Chemicals*  
-📅 Out 2018 - Jan 2019 (4 meses)  
-- Análises laboratoriais  
-- Organização e suporte à equipe de qualidade
-
----
-
 ## 📊 Estatísticas do GitHub
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=dracula)
