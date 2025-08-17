@@ -1,6 +1,5 @@
-(https://via.placeholder.com/1200x250.png?text=Jo%C3%A3o+Victor+Barros+-+Backend+Python+em+Forma%C3%A7%C3%A3o)
 
-# 👋 Olá, eu sou o João Victor Barros
+# 👋 Oi, eu sou o João 
 
 🎯 **Desenvolvedor Backend Python em formação**  
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** — Cruzeiro do Sul Virtual  
